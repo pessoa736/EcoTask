@@ -1,5 +1,7 @@
 # EcoTask - Gerencie suas Tarefas Diárias de Ecologia
 
+![logo do EcoTask]()
+
 “O mundo tornou-se perigoso porque os homens aprenderam a dominar a natureza antes de dominar a si mesmos.”  - Albert Schweitzer
 
 ## Descrição
