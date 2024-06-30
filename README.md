@@ -3,7 +3,9 @@
 
 <p align="center" display="inline">
   <img src="imagens/logo_github-drawing_for_Xpudding.png" alt="EcoTask" width="25%"><br>
-  “O mundo tornou-se perigoso porque os homens aprenderam a dominar a natureza antes de dominar a si mesmos.”  - Albert Schweitzer
+  <div width="50%">
+    “O mundo tornou-se perigoso porque os homens aprenderam a dominar a natureza antes de dominar a si mesmos.”  - Albert Schweitzer
+  </div>
 </p>
 
 
