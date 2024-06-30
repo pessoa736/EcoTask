@@ -1,4 +1,5 @@
 <?php     
+
 class usuario{
     
     private $senha;

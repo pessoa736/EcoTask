@@ -1,7 +1,7 @@
 <?php
 
 
-function fun($fun, $conteudo, $class = "", $id = "", $extra="", $final = true){
+function fun($fun, $conteudo="", $class = "", $id = "", $extra="", $final = true){
     
     $_class = "";
     if($class != ""){
