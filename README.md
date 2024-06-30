@@ -1,6 +1,6 @@
 
 <p align="center" >
-  <img src="imagens/logo_github-drawing_for_Xpudding.png" alt="EcoTask" width="50%">
+  <img src="imagens/logo_github-drawing_for_Xpudding.png" alt="EcoTask" width="10%">
 </p>
 
 # EcoTask - Gerencie suas Tarefas Diárias de Ecologia
