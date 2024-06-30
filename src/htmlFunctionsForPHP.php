@@ -1,7 +1,7 @@
 <?php
 
 
-function fun($fun, $conteudo, $class = "", $id = "", $extra=""){
+function fun($fun, $conteudo, $class = "", $id = "", $extra="", $final = true){
     
     $_class = "";
     if($class != ""){
@@ -13,7 +13,12 @@ function fun($fun, $conteudo, $class = "", $id = "", $extra=""){
         $_id = " id=".$id;
     }
 
-    echo "<".$fun."".$_class.$_id.$extra.">\n\t".$conteudo."\n</".$fun.">";
+    $_final = "";
+    if ($final == true){
+        $_final = "</".$fun.">";
+    }
+
+    echo "<".$fun . $_class . $_id . $extra."> \n\t" . $conteudo . "\n" . $_final;
 }
 
 
