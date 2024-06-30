@@ -1,11 +1,11 @@
 
-<p align="center" >
-  <img src="imagens/logo_github-drawing_for_Xpudding.png" alt="EcoTask" width="25%">
-</p>
-
 # EcoTask - Gerencie suas Tarefas Diárias de Ecologia
 
-“O mundo tornou-se perigoso porque os homens aprenderam a dominar a natureza antes de dominar a si mesmos.”  - Albert Schweitzer
+<p align="center" >
+  <img src="imagens/logo_github-drawing_for_Xpudding.png" alt="EcoTask" width="25%">
+  “O mundo tornou-se perigoso porque os homens aprenderam a dominar a natureza antes de dominar a si mesmos.”  - Albert Schweitzer
+</p>
+
 
 ## Descrição
 EcoTask é uma plataforma intuitiva para ajudar você a gerenciar e acompanhar suas tarefas diárias relacionadas à ecologia. Nossa missão é incentivar práticas sustentáveis através de um sistema simples e eficaz de gerenciamento de tarefas.
