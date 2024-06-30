@@ -8,8 +8,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>EcoTask</title>
-    <script src="src/script.js"></script>
-    <style src="src/styles.css"></style>
+    <script ref="src/script.js"></script>
+    <style ref="src/styles.css"></style>
 </head>
 <body>
     <?php init() ?>

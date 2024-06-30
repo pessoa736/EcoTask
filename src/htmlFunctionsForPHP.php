@@ -18,7 +18,10 @@ function fun($fun, $conteudo, $class = "", $id = "", $extra="", $final = true){
         $_final = "</".$fun.">";
     }
 
-    echo "<".$fun . $_class . $_id . $extra."> \n\t" . $conteudo . "\n" . $_final;
+    return "
+    <".$fun . $_class . $_id . $extra.">
+    " . $conteudo . "
+    " . $_final;
 }
 
 
