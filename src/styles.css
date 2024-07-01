@@ -1,0 +1,22 @@
+
+
+* {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+body {
+    display: inline;
+    background: linear-gradient(to right, #ff8, #780);
+}
+
+form {
+    display: inline;
+    justify-content: center;
+}
+
+.container{
+    display: inline;
+    background-color: #ff8;
+}
