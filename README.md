@@ -3,7 +3,7 @@
 
 <p align="center" display="inline">
   <img src="imagens/logo_github-drawing_for_Xpudding.png" alt="EcoTask" width="25%"><br>
-  <div style="width: 20%; margin: 0 auto; text-align: justify; display: flex">
+  <div style="width: 20%; margin: 0 auto; text-align: center; display: flex">
     “O mundo tornou-se perigoso porque os homens aprenderam a dominar a natureza antes de dominar a si mesmos.”  - Albert Schweitzer
   </div>
 </p>
