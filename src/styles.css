@@ -18,5 +18,12 @@ form {
 
 .container{
     display: inline;
+    border: 2px solid #780;
+    margin: 12px;
+    padding: 12px;
+    
+}
+
+div {
     background-color: #ff8;
 }
