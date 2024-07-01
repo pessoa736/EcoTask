@@ -10,7 +10,7 @@
 
 
 ## Descrição
-EcoTask é uma plataforma intuitiva para ajudar você a gerenciar e acompanhar suas tarefas diárias relacionadas à ecologia. Nossa missão é incentivar práticas sustentáveis através de um sistema simples e eficaz de gerenciamento de tarefas.
+EcoTask é uma plataforma intuitiva para ajudar o ecosistema  com as suas tarefas diárias relacionadas. Nossa missão é incentivar práticas sustentáveis de através de um sistema simples e eficaz de gerenciamento de tarefas para estudantes.
 
 ## Funcionalidades
 - **Rastreamento de Progresso:** Monitore o progresso das suas tarefas ecológicas.
