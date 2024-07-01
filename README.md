@@ -1,5 +1,5 @@
 
-# EcoTask - Gerencie suas Tarefas Diárias de Ecologia
+# EcoTask - Tarefas Diárias de Ecologia
 
 <p align="center" display="inline">
   <img src="imagens/logo_github-drawing_for_Xpudding.png" alt="EcoTask" width="25%"><br>
